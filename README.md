@@ -1,5 +1,8 @@
 # 技术分享PPT
 
+
+[redis高级讲义](redis_advance.pdf)
+
 [微服务那些事儿](micro_service.pdf)
 
 [异步io调度框架的实现](async_frame.pdf)
