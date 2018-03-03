@@ -1,5 +1,6 @@
 # 技术分享PPT
 
+[mysql快速讲义](mysql_advance.pdf)
 
 [redis高级讲义](redis_advance.pdf)
 
