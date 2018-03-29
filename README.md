@@ -1,5 +1,7 @@
 # 技术分享PPT
 
+[golang高性能实战](golang_fast.pdf)
+
 [mysql快速讲义](mysql_fast.pdf)
 
 [redis高级讲义](redis_advance.pdf)
