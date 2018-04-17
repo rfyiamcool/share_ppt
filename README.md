@@ -12,7 +12,7 @@
 
 [cdn设计原理](cdn_design.pdf)
 
-[分析mysql acid设计实现](acid.pdf)
+[分析mysql acid设计实现](mysql_acid.pdf)
 
 [Python gil那些事儿](python_gil.pdf)
 
