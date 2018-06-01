@@ -1,5 +1,7 @@
 # 技术分享PPT
 
+[Redis Cluster那些事儿](redis_cluster.pdf)
+
 [golang高级讲义](golang_advance.pdf)
 
 [golang高性能实战](golang_fast.pdf)
