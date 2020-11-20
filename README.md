@@ -2,9 +2,36 @@
 
 在公司内部及社区中分享的PPT.
 
+## MENU
+
+- [Golang高级编程技巧](#Golang高级技巧)
+- [GRPC的那些事儿](#GRPC的那些事儿)
+- [分布式任务系统](#分布式任务系统)
+- [优雅的编程者](#优雅的编程者)
+- [分布式行情推送系统(golang)](#分布式行情推送系统(golang))
+- [Redis经验之谈](#Redis经验之谈)
+- [http2和quic的那些事儿](#http2和quic的那些事儿)
+- [kubernetes的那些事儿](#kubernetes的那些事儿)
+- [istio的那些事儿](#istio的那些事儿)
+- [Service Mesh的那些事儿](#Service-Mesh的那些事儿)
+- [RedisCluster那些事儿](#RedisCluster那些事儿)
+- [golang高级讲义](#golang高级讲义)
+- [golang高性能实战](#golang高性能实战)
+- [mysql快速讲义](#mysql快速讲义)
+- [微服务那些事儿](#微服务那些事儿)
+- [异步io调度框架的实现](#异步io调度框架的实现)
+- [cdn设计原理](#cdn设计原理)
+- [分析mysql acid设计实现](#分析mysql-acid设计实现)
+- [Python Gil全局锁那些事儿](#Python-Gil全局锁那些事儿)
+- [Redis设计实现](#Redis设计实现)
+- [分布式一致性raft实现原理](#分布式一致性raft实现原理)
+- [Python高级内存管理](#Python高级内存管理)
+- [美妙的多进程管理](#美妙的多进程管理)
+- [聊聊集群管理](#聊聊集群管理)
+
 ## LIST
 
-### Golagn高级技巧
+### Golang高级技巧
 
 #### 分享时间
 
@@ -12,7 +39,9 @@
 
 #### ppt地址
 
-[Golagn高级技巧-下载地址](golang_tips.pdf)
+[在线观看](https://myslide.cn/slides/23112)
+
+[下载地址](golang_tips.pdf)
 
 #### 截图
 
@@ -26,7 +55,9 @@
 
 #### ppt地址
 
-[GRPC的那些事儿-下载地址](shark.pdf)
+[在线观看](https://myslide.cn/slides/23114)
+
+[下载地址](grpc.pdf)
 
 #### 截图
 
@@ -40,7 +71,15 @@
 
 2020-06
 
-[分布式任务系统](shark.pdf)
+#### ppt地址
+
+[在线观看](https://myslide.cn/slides/23115)
+
+[下载地址](shark.pdf)
+
+#### 截图
+
+<img src="images/shark_home.jpg" width="70%">
 
 ### 优雅的编程者
 
@@ -50,7 +89,13 @@
 
 #### ppt地址
 
-[优雅的编程者](drunbility.pdf)
+[在线观看](https://myslide.cn/slides/23113)
+
+[下载地址](drunbility.pdf)
+
+#### 截图
+
+<img src="images/drunbility_home.jpg" width="70%">
 
 ### 分布式行情推送系统(golang)
 
@@ -60,7 +105,9 @@
 
 #### ppt地址
 
-[分布式行情推送系统(golang)](push_cluster.pdf)
+[在线观看](https://myslide.cn/slides/23117)
+
+[下载地址](push_cluster.pdf)
 
 ### Redis经验之谈
 
@@ -68,9 +115,15 @@
 
 2019-11
 
+#### 截图
+
+<img src="images/redis_qa_home.jpg" width="70%">
+
 #### ppt地址
 
-[Redis经验之谈](redis_qa.pdf)
+[在线观看](https://myslide.cn/slides/23118)
+
+[下载地址](redis_qa.pdf)
 
 ### http2和quic的那些事儿
 
@@ -80,7 +133,9 @@
 
 #### ppt地址
 
-[http2和quic的那些事儿](http2quic.pdf)
+[在线观看](https://myslide.cn/slides/23116)
+
+[下载地址](http2quic.pdf)
 
 ### kubernetes的那些事儿
 
@@ -90,7 +145,9 @@
 
 #### ppt地址
 
-[kubernetes的那些事儿](k8s.pdf)
+[在线观看](https://myslide.cn/slides/23120)
+
+[下载地址](k8s.pdf)
 
 ### istio的那些事儿
 
@@ -100,9 +157,11 @@
 
 #### ppt地址
 
-[istio的那些事儿](istio.pdf)
+[在线观看](https://myslide.cn/slides/23119)
 
-### service mesh的那些事儿
+[下载地址](istio.pdf)
+
+### ServiceMesh的那些事儿
 
 #### 分享时间
 
@@ -110,9 +169,11 @@
 
 #### ppt地址
 
-[service mesh的那些事儿](service_mesh.pdf)
+[在线观看](https://myslide.cn/slides/23121)
 
-### Redis Cluster那些事儿
+[下载地址](service_mesh.pdf)
+
+### RedisCluster那些事儿
 
 #### 分享时间
 
@@ -120,7 +181,9 @@
 
 #### ppt地址
 
-[Redis Cluster那些事儿](redis_cluster.pdf)
+[在线观看](https://myslide.cn/slides/23122)
+
+[下载地址](redis_cluster.pdf)
 
 ### golang高级讲义
 
@@ -130,7 +193,9 @@
 
 #### ppt地址
 
-[golang高级讲义](golang_advance.pdf)
+[在线观看](https://myslide.cn/slides/23123)
+
+[下载地址](golang_advance.pdf)
 
 ### golang高性能实战
 
@@ -140,7 +205,9 @@
 
 #### ppt地址
 
-[golang高性能实战](golang_fast.pdf)
+[在线观看](https://myslide.cn/slides/23124)
+
+[下载地址](golang_fast.pdf)
 
 ### mysql快速讲义
 
@@ -150,7 +217,9 @@
 
 #### ppt地址
 
-[mysql快速讲义](mysql_fast.pdf)
+[在线观看](https://myslide.cn/slides/23130)
+
+[下载地址](mysql_fast.pdf)
 
 ### redis高级讲义
 
@@ -160,7 +229,9 @@
 
 #### ppt地址
 
-[redis高级讲义](redis_advance.pdf)
+[在线观看](https://myslide.cn/slides/23129)
+
+[下载地址](redis_advance.pdf)
 
 ### 微服务那些事儿
 
@@ -170,7 +241,9 @@
 
 #### ppt地址
 
-[微服务那些事儿](micro_service.pdf)
+[在线观看](https://myslide.cn/slides/23128)
+
+[下载地址](micro_service.pdf)
 
 ### 异步io调度框架的实现
 
@@ -180,7 +253,8 @@
 
 #### ppt地址
 
-[异步io调度框架的实现](async_frame.pdf)
+[在线观看](https://myslide.cn/slides/23127)
+[下载地址](async_frame.pdf)
 
 ### cdn设计原理
 
@@ -190,7 +264,9 @@
 
 #### ppt地址
 
-[cdn设计原理](cdn_design.pdf)
+[在线观看](https://myslide.cn/slides/23126)
+
+[下载地址](cdn_design.pdf)
 
 ### 分析mysql acid设计实现
 
@@ -200,9 +276,11 @@
 
 #### ppt地址
 
-[分析mysql acid设计实现](mysql_acid.pdf)
+[在线观看](https://myslide.cn/slides/23131)
 
-### Python gil那些事儿
+[下载地址](mysql_acid.pdf)
+
+### Python Gil全局锁那些事儿
 
 #### 分享时间
 
@@ -210,7 +288,9 @@
 
 #### ppt地址
 
-[Python gil那些事儿](python_gil.pdf)
+[在线观看](https://myslide.cn/slides/23132)
+
+[下载地址](python_gil.pdf)
 
 ### Redis设计实现
 
@@ -220,9 +300,11 @@
 
 #### ppt地址
 
-[Redis设计实现](rediscode.pdf)
+[在线观看](https://myslide.cn/slides/23133)
 
-### 分布式一致性raft实现原理]
+[下载地址](rediscode.pdf)
+
+### 分布式一致性raft实现原理
 
 #### 分享时间
 
@@ -230,7 +312,9 @@
 
 #### ppt地址
 
-[分布式一致性raft实现原理](raft_design.pdf)
+[在线观看](https://myslide.cn/slides/23134)
+
+[下载地址](raft_design.pdf)
 
 ### Python高级内存管理
 
@@ -240,7 +324,9 @@
 
 #### ppt地址
 
-[Python高级内存管理](pygc.pdf)
+[在线观看](https://myslide.cn/slides/23135)
+
+[下载地址](pygc.pdf)
 
 ### 美妙的多进程管理
 
@@ -250,7 +336,9 @@
 
 #### ppt地址
 
-[美妙的多进程管理](python_process.pdf)
+[在线观看](https://myslide.cn/slides/23136)
+
+[下载地址](python_process.pdf)
 
 ### 聊聊集群管理
 
@@ -260,6 +348,4 @@
 
 #### ppt地址
 
-[聊聊集群管理](devops_cluster.pdf)
-
-**更新中 ...**
+[下载地址](devops_cluster.pdf)
