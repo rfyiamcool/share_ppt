@@ -4,6 +4,7 @@
 
 ## MENU
 
+- [Kafka的设计与实现](#Kafka的设计与实现)
 - [TCP的那些事儿](#TCP的那些事儿)
 - [Golang高级编程技巧](#Golang高级技巧)
 - [GRPC的那些事儿](#GRPC的那些事儿)
@@ -32,17 +33,37 @@
 
 ## LIST
 
+### Kafka的设计与实现
+
+#### 分享时间
+
+2021-02-23
+
+#### ppt地址
+
+[在线观看](null)
+
+[下载地址](kafka.pdf)
+
+#### 截图
+
+<img src="images/kafka.jpg" width="70%">
+
 ### TCP的那些事儿
 
 #### 分享时间
 
-2021-06-06
+2021-01-06
 
 #### ppt地址
 
 [在线观看](https://myslide.cn/slides/23281)
 
 [下载地址](tcp_protocol.pdf)
+
+#### 截图
+
+<img src="images/tcp.jpg" width="70%">
 
 ### Golang高级技巧
 
