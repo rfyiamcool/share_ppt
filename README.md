@@ -4,6 +4,7 @@
 
 ## MENU
 
+- [Etcd的设计与实现](#Etcd的设计与实现)
 - [git的那些事儿](#git的那些事儿)
 - [分布式消息推送](#分布式消息推送)
 - [Kafka的设计与实现](#Kafka的设计与实现)
@@ -34,6 +35,36 @@
 - [聊聊集群管理](#聊聊集群管理)
 
 ## LIST
+
+### Etcd的设计与实现
+
+#### 分享时间
+
+2021-07-05
+
+#### 内容
+
+- raft共识算法
+- boltdb知识点
+- etcd自身的功能实现
+  - 关键结构体
+  - mvcc实现
+  - treeindex及boltdb存储布局
+  - txn事务的实现
+  - watch监听的实现
+  - lease监听的实现
+  - compact的实现
+  - defrag的实现
+  - 锁的实现
+- etcd的使用经验
+
+#### ppt地址
+
+[下载地址](etcd_cluster.pdf)
+
+#### 截图
+
+<img src="images/etcd_cluster.jpg" width="70%">
 
 ### GIT的哪儿事儿
 
