@@ -2,6 +2,10 @@
 
 在公司内部及社区中分享的PPT.
 
+## Download
+
+[download in github](https://github.com/rfyiamcool/share_ppt/releases)
+
 ## MENU
 
 - [Etcd的设计与实现](#Etcd的设计与实现)
