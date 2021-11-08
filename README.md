@@ -4,7 +4,7 @@
 
 ## Download
 
-[download in github](https://github.com/rfyiamcool/share_ppt/releases)
+[download in github](https://github.com/rfyiamcool/share_ppt/tags)
 
 ## MENU
 
