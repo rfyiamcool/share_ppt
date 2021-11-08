@@ -10,7 +10,7 @@
 
 - [Golang项目实战](#Golang项目实战)
 - [Etcd的设计与实现](#Etcd的设计与实现)
-- [git的那些事儿](#git的那些事儿)
+- [git的那些事儿](#GIT的那些事儿)
 - [分布式消息推送](#分布式消息推送)
 - [Kafka的设计与实现](#Kafka的设计与实现)
 - [TCP的那些事儿](#TCP的那些事儿)
@@ -18,7 +18,7 @@
 - [GRPC的那些事儿](#GRPC的那些事儿)
 - [分布式任务系统](#分布式任务系统)
 - [优雅的编程者](#优雅的编程者)
-- [分布式行情推送系统(golang)](#分布式行情推送系统(golang))
+- [分布式行情推送系统(golang)](#分布式行情推送系统golang)
 - [Redis经验之谈](#Redis经验之谈)
 - [http2和quic的那些事儿](#http2和quic的那些事儿)
 - [kubernetes的那些事儿](#kubernetes的那些事儿)
@@ -94,7 +94,7 @@
 
 <img src="images/etcd_cluster.jpg" width="70%">
 
-### GIT的哪儿事儿
+### GIT的那些事儿
 
 #### 分享时间
 
@@ -229,7 +229,7 @@
 
 <img src="images/drunbility_home.jpg" width="70%">
 
-### 分布式行情推送系统(golang)
+### 分布式行情推送系统golang
 
 #### 分享时间
 
