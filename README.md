@@ -8,6 +8,7 @@
 
 ## MENU
 
+- [Golang项目实战](#Golang项目实战)
 - [Etcd的设计与实现](#Etcd的设计与实现)
 - [git的那些事儿](#git的那些事儿)
 - [分布式消息推送](#分布式消息推送)
@@ -39,6 +40,29 @@
 - [聊聊集群管理](#聊聊集群管理)
 
 ## LIST
+
+### Golang项目实战
+
+#### 分享时间
+
+2021-11-08
+
+#### 内容
+
+- 代码规范
+- 接口规范
+- Git规范
+- 常见设计模式
+- Golang开发经验
+- Golang编码技巧
+
+#### ppt地址
+
+[下载地址](golang_skills.pdf)
+
+#### 截图
+
+<img src="images/golang_skills.jpg" width="70%">
 
 ### Etcd的设计与实现
 
