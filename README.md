@@ -8,6 +8,7 @@
 
 ## MENU
 
+- [网络编程那些事儿](#网络编程那些事儿)
 - [Golang项目实战](#Golang项目实战)
 - [Etcd的设计与实现](#Etcd的设计与实现)
 - [git的那些事儿](#GIT的那些事儿)
@@ -40,6 +41,57 @@
 - [聊聊集群管理](#聊聊集群管理)
 
 ## LIST
+
+### 网络编程那些事儿
+
+#### 分享时间
+
+2021-12-16
+
+#### 内容
+
+- 收包发包原理, socket及阻塞非阻塞, 同步异步的本质
+- linux 五种IO模型
+- io多路复用模型
+  - select
+  - poll
+  - epoll
+    - 数据结构组成
+    - 如何使用 epoll 的那几个方法
+    - 从底层来讲解 epoll 的实现原理
+    - epolloneshot 的场景
+    - 水平触发和边缘触发到底是怎么一回事, 各种case来描述
+    - 社区中常见的服务端使用 epoll 哪种触发模型
+    - epoll 的开发技巧
+  - io_uring
+- aio 到底是怎么一回事？ 存在的问题
+- 当前社区比较流行的 网络编程 模型
+  - 新线程模型
+  - 单多路复用 + 业务线程池模型
+  - prefork 模型
+  - reactor
+  - proactor
+- 常见的网络编程问题
+  - 半连接全连接代表的意思，如何配置，不同内核参数下表现形式
+  - 常见的读写返回值的处理方式
+  - reuseaddr vs reuseport
+  - epoll 的惊群问题
+  - 粘包半包
+  - 半关闭
+  - 如何实现异步 connect
+  - 弱网络问题, kcp
+  - fork, exec, system 在继承传递 fd 的问题
+  - 如何实现网络服务的 upgrade
+  - 论心跳的重要性, 为什么使用应用层心跳
+  - 如何处理各种的网络异常问题
+
+#### ppt地址
+
+[下载地址](network_server.pdf)
+
+#### 截图
+
+<img src="images/network_server.jpg" width="70%">
 
 ### Golang项目实战
 
