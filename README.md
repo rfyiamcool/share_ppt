@@ -6,8 +6,9 @@
 
 [download in github](https://github.com/rfyiamcool/share_ppt/tags)
 
-## MENU
+## Agenda
 
+- [Qcon海量长连接消息推送系统实践](#Qcon海量长连接消息推送系统实践)
 - [网络编程那些事儿](#网络编程那些事儿)
 - [Golang项目实战](#Golang项目实战)
 - [Etcd的设计与实现](#Etcd的设计与实现)
@@ -41,6 +42,32 @@
 - [聊聊集群管理](#聊聊集群管理)
 
 ## LIST
+
+### Qcon海量长连接消息推送系统实践
+
+#### 分享时间
+
+2021-06-30
+#### 内容
+
+- 超百万的⻓连接接入
+- 每天近 100 亿条消息
+- 高峰值时每秒 70w+ 条消息 目标
+- 如何尽量保证消息的低延迟
+- 如何保证系统的高并发
+- 如何保证消息的可靠性
+- 如何保证系统的可用性
+- ...
+
+#### ppt地址
+
+[下载地址](qcon_push_service.pdf)
+
+#### 截图
+
+<img src="images/qcon_push_service01.jpg" width="70%">
+<img src="images/qcon_push_service02.jpg" width="70%">
+<img src="images/qcon_push_service03.jpg" width="70%">
 
 ### 网络编程那些事儿
 
