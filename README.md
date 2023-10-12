@@ -61,7 +61,7 @@
 
 #### ppt地址
 
-[下载地址](apache-pulsar.pdf.pdf)
+[下载地址](apache-pulsar.pdf)
 
 #### 截图
 
