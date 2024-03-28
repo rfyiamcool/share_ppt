@@ -1,5 +1,4 @@
 # 技术分享PPT
-
 在公司内部及社区中分享的PPT.
 
 ## Download
@@ -8,6 +7,7 @@
 
 ## Agenda
 
+- [网络编程那些事儿-meican](#网络编程那些事儿-meican)
 - [apache pulsar的设计实现原理](#ApachePulsar的设计实现原理)
 - [Qcon海量长连接消息推送系统实践](#Qcon海量长连接消息推送系统实践)
 - [网络编程那些事儿](#网络编程那些事儿)
@@ -43,6 +43,23 @@
 - [聊聊集群管理](#聊聊集群管理)
 
 ## LIST
+
+### 网络编程那些事儿-meican
+
+#### 分享时间
+
+2023-12-20
+
+#### ppt地址
+
+[下载地址](network_skill.pdf)
+
+#### 截图
+
+<img src="images/network_skill_1.png" width="70%">
+<img src="images/network_skill_2.png" width="70%">
+<img src="images/network_skill_3.png" width="70%">
+<img src="images/network_skill_4.png" width="70%">
 
 ### ApachePulsar的设计实现原理
 
